@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="pip" />
+            <item index="1" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="2" class="java.lang.String" itemvalue="gensim" />
+            <item index="3" class="java.lang.String" itemvalue="backports.zoneinfo" />
+            <item index="4" class="java.lang.String" itemvalue="Cython" />
+            <item index="5" class="java.lang.String" itemvalue="lap" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test.lower" />
+          <option value="geocoder" />
+          <option value="main.label1" />
+          <option value="main.user_choice" />
+          <option value="int.forward" />
+          <option value="list.forward" />
+          <option value="int.xcor" />
+          <option value="paddle.paddle1.goto" />
+          <option value="paddle.paddle1.ycor" />
+          <option value="paddle.paddle1.xcor" />
+          <option value="typing.TextIO.replace" />
+          <option value="int.int" />
+          <option value="builtins.input.get" />
+          <option value="main.is_on" />
+          <option value="int.pencolor" />
+          <option value="list.send_keys" />
+          <option value="int.search_query" />
+          <option value="prompt_toolkit.keys.Keys.RETURN" />
+          <option value="int.linkedin_username" />
+          <option value="int.linkedin_password" />
+          <option value="test.extract_first" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
